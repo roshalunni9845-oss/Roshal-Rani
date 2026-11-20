@@ -29,7 +29,7 @@ Building practical data analytics projects and developing real-world business in
 
 ### 📫 Connect With Me
 - LinkedIn: [https://www.linkedin.com/in/roshal-rani-da]
-- GitHub: [Your GitHub URL]
+- GitHub: [https://github.com/roshalunni9845-oss]
 
 ---
 ⭐ Always learning, building, and growing!
