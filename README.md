@@ -28,7 +28,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 Building practical data analytics projects and developing real-world business intelligence solutions.
 
 ### 📫 Connect With Me
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: [https://www.linkedin.com/in/roshal-rani-da]
 - GitHub: [Your GitHub URL]
 
 ---
